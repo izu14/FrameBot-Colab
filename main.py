@@ -37,7 +37,7 @@ def extractFrames():
     vidcap = cv2.VideoCapture(videoFile)
     success,image = vidcap.read()
     fps = vidcap.get(cv2.CAP_PROP_FPS)
-    required_fps =2 #if you want you can change the FPS for your video here
+    required_fps =1 #if you want you can change the FPS for your video here
     #The more the fps, the more number of frames
     multiplier = round(fps/required_fps)
     x=0
@@ -87,7 +87,7 @@ if __name__ == '__main__':
         extractFrames()
     else:
         pass
-    schedule.every().hour.do(post).run()
+    schedule.every(15).seconds.do(post).run()
 
     while 1:
         schedule.run_pending()
