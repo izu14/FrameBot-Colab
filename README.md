@@ -1,5 +1,8 @@
 # FrameBot
 
+# Open in Colab
+<a href="https://colab.research.google.com/github/izu14/FrameBot/blob/master/FrameBot_Colab.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ## Requirements
 * Python3 Download Python3 from https://www.python.org/downloads/
 * Install required packages `sudo pip3 install -r requirements.txt`
