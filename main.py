@@ -80,7 +80,7 @@ if __name__ == '__main__':
     if token.readline() == "putyourtokenherexdd":
         print("put your access token in assets/token.txt. you can obtain the access token from http://maxbots.ddns.net/token/")
         sys.exit("error no token")
-    ans = input("Extract Frames?(y/n) \n>")
+    ans = "y"
     if 'y' in ans.lower():
         if os.path.exists("./assets/retain"):
             os.remove("./assets/retain")
