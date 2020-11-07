@@ -41,6 +41,6 @@ If anything happens to your facebook account after lowering time interval any fu
 <br>Add customizable form for post interval/delay
 <br>Stop the code automatically after last frame posted
 <br>Remove some unused code from YoutubeDL(or maybe switch to another method)
-I guess i need some times to do these small changes, i just taking interest into programming around 2w ago, tbh i don't know where to start or which language i should learn
+<br><br>I guess i need some times to do these small changes, i just taking interest into programming around 2w ago, tbh i don't know where to start or which language i should learn
 
 **Sorry for my bad english ;_;**
