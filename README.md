@@ -38,8 +38,8 @@ If anything happens to your facebook account after lowering time interval any fu
 ***I DON'T KNOW WHAT WILL HAPPEN, SO PROCEED AT YOUR OWN RISK, I'M NOT RESPONSIBLE***
 
 **TODO**
-1. Input form thingy(idunno what it called) for some strings variable so it'll be much easier to customize
-2. Stop the code after last frame posted(for now u need to stop it manually, else it'll throw an error)
+<br>Add customizable form for post interval/delay
+<br>Stop the code automatically after last frame posted
 
 I guess i need some times to do these small changes, i just taking interest into programming around 2w ago, tbh i don't know where to start or which language i should learn
 
