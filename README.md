@@ -18,13 +18,14 @@ If anything happens to your facebook account after lowering time interval any fu
 
 ## ADDITIONAL NOTES FROM [Me OwO](https://github.com/izu14)
 
-**WARNING** : **THIS FORKED REPO BY DEFAULT USE 15 sec delay/interval** for each frame post, i saw that ESFIO(Every Spongebob Frame In Order) posted 12 frame every minutes which means they use 5 sec delay(it can be changed anytime, better to check the page or any similiar page by yourself)
-<br>You can change the interval by manually editing the code located in 3rd steps section in colab notebook(line 112)
+**WARNING** : **COLAB NOTEBOOK IN THIS FORKED REPO BY DEFAULT USE 15 sec delay/interval** for each frame post, i saw that ESFIO(Every Spongebob Frame In Order) posted 12 frame every minutes which means they use 5 sec delay(it can change anytime, better to check the page or any similiar page by yourself)
 
-***I DON'T KNOW WHAT WILL HAPPEN, SO PROCEED AT YOUR OWN RISK, I'M NOT RESPONSIBLE***
+**I'VE TESTED IT USING 108 & 259 FRAME POST, IT'S WORKING WITHOUT ANY PROBLEM**
+<br>**BUT**
+<br>**I DON'T KNOW WHAT WILL HAPPEN SINCE NOT EVERYONE HAS THE SAME FATE OR LUCK XD**
+<br>***SO PROCEED AT YOUR OWN RISK, I'M NOT RESPONSIBLE***
 
 <br>**TODO**
-<br>Add var form for post interval/delay
-<br>Stop the code automatically after last frame posted
+Stop the code automatically after last frame posted
 
 <br>**Btw Sorry for my bad english ;_;**
